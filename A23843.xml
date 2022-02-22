@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abstract of some few of those barbarous, cruell massacres and murthers of the Protestants and English in some parts of Ireland, committed since the 23 of Octob., 1641 together with the rise of the rebellion : collected out of the examinations taken upon oath by persons of trust, in the beginning of the rebellion : which particulars are singled out of a multitude of others of like nature : with the persons that acted those murthers, and massacres, with time, place, and other circumstances, are contained in the said examinations, yet extant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23843</idno>
+            <idno type="STC">Wing A123A</idno>
+            <idno type="STC">ESTC R200815</idno>
+            <idno type="EEBO-CITATION">25851350</idno>
+            <idno type="OCLC">ocm 25851350</idno>
+            <idno type="VID">109740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109740)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1734:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abstract of some few of those barbarous, cruell massacres and murthers of the Protestants and English in some parts of Ireland, committed since the 23 of Octob., 1641 together with the rise of the rebellion : collected out of the examinations taken upon oath by persons of trust, in the beginning of the rebellion : which particulars are singled out of a multitude of others of like nature : with the persons that acted those murthers, and massacres, with time, place, and other circumstances, are contained in the said examinations, yet extant.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of imprint suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Ireland.</term>
+               <term>Atrocities --  Ireland.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109740:1" rendition="simple:additions"/>
+            <p>AN ABSTRACT OF Some few of thoſe Barbarous, Cruell Maſſacres and Murthers, of the Proteſtants, and <hi>ENGLISH,</hi> in ſome parts OF IRELAND Committed ſince the 23, of Octob. 1641.</p>
+            <p>Together with the Riſe of the Rebellion.</p>
+            <p>COLLECTED Out of the Examinations taken upon Oath by Perſons of Truſt, in the begin<g ref="char:EOLhyphen"/>ning of the REBELLION.</p>
+            <p>Which Particulars are ſingled out of a multitude of o<g ref="char:EOLhyphen"/>thers of like nature. With the perſons that acted thoſe Murthers, and Maſſacres, with time, place, and other circumſtances, are contained in the ſaid Examinations, yet extant.</p>
+            <p>LONDON, Printed for the Authour.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109740:2"/>
+            <pb n="1" facs="tcp:109740:2"/>
+            <head>AN Abſtract of ſome few of thoſe Barbarous cruell Maſſacres and Murthers of the Prote<g ref="char:EOLhyphen"/>ſtants, and Engliſh, in ſome parts of <hi>IRELAND.</hi>
+            </head>
+            <div type="part">
+               <head>In the County of KILKENNY.</head>
+               <p>ABout the twentyeth day of <hi>December</hi> One thouſand ſix hundred forty two, the Proteſtants were ſtripped naked at <hi>Kilkenny,</hi> and whereas ſome of thoſe ſtripped people with ropes of ſtraw covered ſome part of their nakedneſs, the Rebels ſet the ſtraw on fire, thereby burning and grievouſly ſcorching them: ſix Souldiers and two boyes having quarter given them, were nevertheleſs hanged at <hi>Kilkenny,</hi>
+               </p>
+               <p>A young Girle ſtripped about <hi>Enſter</hi> one thouſand ſix hundred forty two in the City of <hi>Kilkenny</hi> by a Butcher: her belly ripped up that her intrails fell out; where the Mayor (upon complaint of the mother) bad, away with her, and diſpatch her, whereupon the Mother received ſeventeen or eighteen wounds, and her other childe was alſo extremely wounded, and all forced out of the City by men, women and boyes throwing ſtones and dirt at them; So as the two children died in a ditch. The Aldermen of <hi>Kilkenny</hi> petitioned their Councel, That <hi>Philip Purcel</hi> Eſquire might bee puniſhed for relieving of Proteſtants.</p>
+               <p>A woman and two children in the <hi>City</hi> of <hi>Kilkenny</hi> was by the Inhabitants hunted, baited, torn with Dogs, ſtabbed with ſkeenes, one of her childrens outs being pulled our.</p>
+               <p>At <hi>Kilkenny</hi> ſeven <hi>Engliſh-men</hi> hanged, and one <hi>Iriſh-man</hi> be<g ref="char:EOLhyphen"/>cauſe hee was taken in their company.</p>
+               <p>Twelve murthered at <hi>Greige,</hi> one of them (being a woman great with childe) had her belly ripped up, the childe falling out
+<pb n="2" facs="tcp:109740:3"/>alive, and a childe of a year and half old hanged, another of them named <hi>Robert Pine</hi> (being twice hanged up) was caſt into his grave, where hee ſate up ſaying, <hi>Christ receive my ſoul,</hi> and ſo was buried quick.</p>
+               <p>An old man hanged, afterwards dragged up and down till his bowels fell out.</p>
+               <p>
+                  <hi>Chriſtopher Morley,</hi> and two <hi>Engliſh-boyes</hi> of <hi>Caſtle Comer</hi> hang<g ref="char:EOLhyphen"/>ed; one other <hi>Engliſh-boy</hi> (eight or nine years old) had his head cleft, and before hee was dead hanged on his fathers Tenter<g ref="char:EOLhyphen"/>hooks.</p>
+               <p>About threeſcore men, women and children murthered at the <hi>Graige,</hi> many of them buried alive.</p>
+            </div>
+            <div type="part">
+               <head>County of Caterlough.</head>
+               <p>
+                  <hi>Richard Lake</hi> hanged at <hi>Leiglinbridge,</hi> ſixteen more hanged near that place, two more murthered near <hi>Caterlagh,</hi> two women hung up by the hair of their heads all night, the next day (being found ſtill alive) they were murthered.</p>
+               <p>At or near <hi>Leighlin,</hi> bridge, three men with their Wives, and Children murthered. A woman newly delivered of two children, the one of them had his brains beaten out againſt the ſtones, and after thrown into the River <hi>Barrow.</hi> One woman and her daughter murthered. About forty Engliſh murthered there<g ref="char:EOLhyphen"/>about. Almoſt all the Engliſh about <hi>Gowran,</hi> and <hi>Wells</hi> hanged and murthered.</p>
+            </div>
+            <div type="part">
+               <head>County of Kildare.</head>
+               <p>
+                  <hi>Ralph Heyward</hi> (having turned to Maſs) was murthered, his wife and two children hanged, the one at her neck, the other at her girdle, a Dog, and a Cat hanged with them.</p>
+               <p>
+                  <hi>Robert Woods</hi> ſhot to death.</p>
+               <p>
+                  <hi>Iohn Morley</hi> and his wife and five children, and one <hi>Iohn Pliny</hi> (after they were turned to Maſs) murthered.</p>
+            </div>
+            <div type="part">
+               <head>County of Dublin.</head>
+               <p>About 28. <hi>Decem.</hi> 1641. The wife of <hi>Ioſeph Smithſon</hi> Miniſter, was carryed from <hi>Deane Grange</hi> near <hi>Dublin,</hi> to <hi>Stillorgan</hi> from thence to <hi>Powers</hi> court, and there ſhee, and her Servant hanged.</p>
+               <p>At <hi>Balcothery, William Rimmer</hi> (a Packet Poaſt) and Mr. <hi>Pardoe</hi> a Miniſter murthered, Mr. <hi>Pardoe</hi> being after caſt upon a Dunghil had his head eaten with Swine.</p>
+               <pb n="3" facs="tcp:109740:3"/>
+               <p>A foul murther committed on <hi>'Dirrick Hubbert</hi> of <hi>Holme-Patrick,</hi> in the County of <hi>Dublin,</hi> Eſq; the ſecond of <hi>Decemb.</hi> anno Dom. 1641.</p>
+            </div>
+            <div type="part">
+               <head>County of Meath</head>
+               <p>Near <hi>Navan,</hi> the ſon of <hi>James Wignal</hi> murthered about the laſt of <hi>November,</hi> 1641.</p>
+               <p>Mris. <hi>Heiglin,</hi> her daughter, and two children murthered by two men hired thereunto, for two barrels of Wheat.</p>
+               <p>Four more hanged, and murthered, at the <hi>Navan.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Kings County.</head>
+               <p>Mris. <hi>June Addis</hi> of <hi>Kilcourſie</hi> (after their going to Maſs mur<g ref="char:EOLhyphen"/>thered at her houſe in <hi>Popes-country,</hi> having a childe not a quar<g ref="char:EOLhyphen"/>ter old, the murtherers putting the dead mothers breaſt into the childes mouth, bad it <hi>ſuck Engliſh Baſtard,</hi> and ſo left it.</p>
+               <p>
+                  <hi>Arthur Scot</hi> murthered at <hi>Diſloony</hi> having twenty wounds given him, Another Engliſh-man hanged at the ſame place.</p>
+               <p>
+                  <hi>Henry Bigland,</hi> and eleven more hanged and murthered about <hi>Knocknemeis.</hi>
+               </p>
+               <p>A woman (aged 80 years) ſtripped naked in froſt and ſnow by two daughters of <hi>Rory Coghlan</hi> of <hi>Fercalward,</hi> before whoſe door ſhee dyed.</p>
+               <p>
+                  <hi>Iohn Lorcan</hi> murthered and chopt to pecces.</p>
+               <p>Twenty two Widowes, and ſeveral others ſtripped naked, and covering themſelves in a houſe with ſtraw, the Rebels lighted ſtraw, and ſtrew amongſt them to burn them, and they had been burned, had they not been reſcued by others, who turned them out naked in froſt and ſnow, ſo as many dyed; the children dying in their mothers armes.</p>
+            </div>
+            <div type="part">
+               <head>Queens County.</head>
+               <p>
+                  <hi>John Nicholſon</hi> and his VVife murthered by <hi>Florence Fitz Patrick</hi> and his ſervants. Mris. <hi>Fitz Patrick</hi> blaming the Mur<g ref="char:EOLhyphen"/>therers becauſe they brought not Mris. <hi>Nicholſons</hi> fat or greaſe wherewith ſhe might have made candles.</p>
+               <p>
+                  <hi>Tho. Keyes</hi> Eſq; a Juſtice of the Peace of the ſaid County (66. years old) and <hi>Tho. Dubleday</hi> both hanged near <hi>Burrowes</hi> Caſtle, and <hi>Dubleday</hi> ſhot as he was hanging; both being firſt ſtripped naked, and gored and pricked in ſeveral parts of their bodies.</p>
+               <p>
+                  <hi>Amy Manphins.</hi> Husband murthered, and ſhee compelled to
+<pb n="4" facs="tcp:109740:4"/>ſtand in his blood; and ſhe being ſtripped naked, was drawn by the hair through Thorns, and after ſent away.</p>
+               <p>An <hi>Engliſh</hi> Girl half hanged, and buried quick.</p>
+               <p>Six <hi>Engliſh</hi> hanged up by <hi>Florence Fitz Patrick</hi> (after quarter promiſed) about 23 <hi>January</hi> 1641.</p>
+               <p>Neer <hi>Kilfeckell</hi> in the <hi>Queens County,</hi> an <hi>Engliſh</hi>-man with his Wife, and four or five Children hanged, by command of Sir <hi>Morgan Cavenagh,</hi> and Mr. <hi>Robert Harpols,</hi> all afterwards caſt into one hole, and buried quick.</p>
+            </div>
+            <div type="part">
+               <head>County of Wicklow.</head>
+               <p>At <hi>K<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>krath Park Edward Snape,</hi> and two others hanged about 20 <hi>Nov.</hi> 1641.</p>
+               <p>
+                  <hi>John</hi> the ſon of <hi>William Leeſon</hi> ſtript, and hanged at <hi>Baligarny,</hi> about 25 <hi>Nov.</hi> 1641.</p>
+               <p>A young child (a year and a quarter old) taken from the mo<g ref="char:EOLhyphen"/>thers back, thrown down and trod upon, that it died: the mo<g ref="char:EOLhyphen"/>ther and three other children ſtripped naked, ſo as the ſaid three children died.</p>
+            </div>
+            <div type="part">
+               <head>County Weſt Meath.</head>
+               <p>In <hi>Kolbeggan,</hi> a boy and two women hanged; one of them ha<g ref="char:EOLhyphen"/>ving a ſucking child, deſired it might be buried with her, knowing it would ſuffer afterwards, but it was caſt out, and ſtarved to death.</p>
+               <p>
+                  <hi>William Sibthorpe</hi> (Pariſh Clerk of <hi>Mullingar</hi>) hanged.</p>
+               <p>
+                  <hi>Edmund Dalton</hi> and Mr. <hi>Moor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heads</hi> ſon murdered.</p>
+            </div>
+            <div type="part">
+               <head>County of Galway.</head>
+               <p>Mr. <hi>Adam Nowell</hi> and ſix more hanged, and murthered, by the Lord of <hi>Clanmorris.</hi>
+               </p>
+               <p>
+                  <hi>Hugh Langridge</hi> murthered neer <hi>Loughreagh,</hi> having received 16 wounds, and his ſon having nine wounds, and left for dead, yet recovered.</p>
+               <p>Mr. <hi>Corbet</hi> an old Miniſter had his head cut off by two young Cowheards neer <hi>Loughreagh.</hi>
+               </p>
+               <p>The ſon of an Engliſh-man murthered: a child ſo beaten that it died within three dayes.</p>
+               <p>Threeſcore and five Protoſtants (ſome ſay eighty, ſome ninety) many of them Miniſters (and amongſt them the Biſhop of <hi>Killalagh</hi>) for the moſt part all murthered at the Bridge of <hi>Shreel,</hi> very few eſcaping.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:109740:4"/>
+               <head>County of Longford.</head>
+               <p>
+                  <hi>Mary-ornelly</hi> murthered in <hi>Longford,</hi> after quarter promiſed.</p>
+               <p>
+                  <hi>William Steele</hi> and four others hanged at a Wind-Mill which is near unto <hi>Rackleen.</hi>
+               </p>
+               <p>The wife of <hi>Henry Mead</hi> hanged, the ſaid <hi>Henry</hi> himſelf, being placed in a ring amongſt the Rebels each ſtabbing of him, as hee was forced to flee from ſide, to ſide; and ſo continued untill his Shoulder, and Breaſt were cut in two, with a Bill-hook.</p>
+               <p>
+                  <hi>George Foſter</hi> with his Wife and Child, and the Wife of <hi>John Bizell</hi> murthered at <hi>Ballinecor.</hi> One other drowned; Some chil<g ref="char:EOLhyphen"/>dren there buried alive.</p>
+            </div>
+            <div type="part">
+               <head>County of Roſcomon</head>
+               <p>Sixteen <hi>Engliſh</hi> hanged at <hi>Ballileague.</hi>
+               </p>
+               <p>Nine murthered at <hi>Ballinefad,</hi> whereof four were children, and one woman great with childe, through whoſe belly the Rebels thruſt their Pikes as ſhee was hanging, becauſe the childe ſhould not live.</p>
+               <p>
+                  <hi>William Steward</hi> had Collops cut off him being alive, fire-coals put into his mouth, his belly ript up, and his intralls wrapt about his neck, and wriſts of his armes.</p>
+            </div>
+            <div type="part">
+               <head>County of Sleigo.</head>
+               <p>Thirty eight Proteſtants put into the Gaol of <hi>Sleigo,</hi> all, except two or three murthered there, the ſame night, by divers breaking in upon them at midnight.</p>
+               <p>A Frier, with ſome Souldiers, undertaking to conduct Mr. <hi>Tho. Walker,</hi> a Miniſter, his man, and two Gentlewomen from <hi>Roſerk</hi> to <hi>Abby Boyle,</hi> the Frier riding away, they fell, into an ambuſh laid for them, where <hi>Mr. Walker</hi> being on his knees at prayers they cleft his ſcull to the mouth, killed his man, and ſtript the women naked, one of the women being afterwards murthered at <hi>Ballemoat.</hi>
+               </p>
+               <p>Thirty five men, women, and children murthered near <hi>Balle<g ref="char:EOLhyphen"/>ſekerry.</hi>
+               </p>
+               <p>Four murthered in the ſtreets of <hi>Sleigo,</hi> and <hi>Iſabel Beard,</hi> great with child, purſued by one of the Friers men into the River where he murthered her, the very childes feet appearing through one of the wounds hee gave her.</p>
+               <p>Mr. <hi>William Ollifant</hi> Clerk ſtript, and half hanged, and after
+<pb n="6" facs="tcp:109740:5"/>dragged with a rope about his neck at a horſe heels up and down, becauſe he would not turn Papiſt. Another Miniſter the ſame time murthered.</p>
+               <p>At <hi>Ardneglaſſe</hi> and <hi>Skreene</hi> about thirty Proteſtants, men, wo<g ref="char:EOLhyphen"/>men, and children murthered.</p>
+               <p>Ten men, women, and children buried alive near <hi>Titemple, ali<g ref="char:EOLhyphen"/>as Temple-houſe.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>County of May.</head>
+               <p>About ſeven and twenty perſons, beſides children drowned in the <hi>Bay</hi> or Harbour neer <hi>Killalagh,</hi> by the inſtigation of the Friars.</p>
+               <p>Thirty or forty <hi>Engliſh</hi> (formerly turned Papiſts) driven and forced into the Sea neer <hi>Killalagh,</hi> and drowned.</p>
+               <p>A yong boy killed by one that had been his <hi>School-maſter,</hi> a man wounded, and buried alive, a Miniſter murthered after he had gone to Maſſe, another hanged neer <hi>Ballehen.</hi>
+               </p>
+               <p>At the <hi>Moine</hi> fifty nine Proteſtants ſtripped naked, and after barbarouſly murthered.</p>
+               <p>
+                  <hi>William Gibs</hi> and his wife (both very old) murthered at the <hi>Moine.</hi>
+               </p>
+               <p>One hundred and twenty men, women and children ſtript ha<g ref="char:EOLhyphen"/>ked, and after murthered at <hi>Bellick.</hi>
+               </p>
+               <p>About the 20 of <hi>Nov.</hi> 1641. <hi>George Buchanon</hi> having received many wounds, was after buried alive.</p>
+               <p>About <hi>Auguſt</hi> 1643. the wife of <hi>John Gardiner</hi> of the Barro<g ref="char:EOLhyphen"/>ny of <hi>Carragh,</hi> having leave, and two Iriſh-men for viſiting her children at <hi>Belleck,</hi> was by the ſaid Convoy on the way cruelly murthered.</p>
+            </div>
+            <div type="part">
+               <head>County of Tipperary.</head>
+               <p>Fifteen men and women Proteſtants were murthered at the City of <hi>Caſhel,</hi> and neer <hi>Caſhel</hi> were three or four children mur<g ref="char:EOLhyphen"/>thered by a Convoy.</p>
+               <p>Twenty four <hi>Engliſh</hi> at the Silver-mines, after they had revolted to Maſſe, murthered.</p>
+            </div>
+            <div type="part">
+               <head>County of Leitrim.</head>
+               <p>Mr. <hi>William Lifton</hi> and Mr. <hi>Thomas Fullerton</hi> Clerks, kept two dayes without meat and drink, then murthered near <hi>Manner Hamilton.</hi>
+               </p>
+               <pb n="7" facs="tcp:109740:5"/>
+               <p>An <hi>Engliſh childe</hi> taken by the heels, and its braines daſhed out againſt a block of Timber.</p>
+            </div>
+            <div type="part">
+               <head>County of Clare</head>
+               <p>
+                  <hi>Chriſtopher Hepdich,</hi> and ſixteen more <hi>Engliſh</hi> Proteſtants mur<g ref="char:EOLhyphen"/>thered at, or near the Caſtle of <hi>Inchicrony.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>County of Tirone.</head>
+               <p>
+                  <hi>Robert Bickerdick</hi> and his wife drowned in the <hi>Blacke-water, James Carlile</hi> and his wife alſo murthered.</p>
+               <p>
+                  <hi>Thomas Carlile</hi> put to death, and ſo were about fourſcore and ſeventeen more.</p>
+               <p>Mr. <hi>John Mother,</hi> and Mr. <hi>Blithe,</hi> both Clerks, murthered in, or near <hi>Dungannon,</hi> although Mr. <hi>Blithe</hi> had <hi>Sir Phelim Oneals</hi> protection, and threeſcore families of the Town of <hi>Dungannon</hi> murthered.</p>
+               <p>About three hundred murthered in the way to <hi>Colraine,</hi> by direction of <hi>Sir Phelim Oneale</hi> and <hi>Turlogh</hi> his brother.</p>
+               <p>In and about <hi>Dungannon</hi> were murthered three hundred and ſixteen, between <hi>Charlemount</hi> and <hi>Dungannon</hi> above four hundred murthered.</p>
+               <p>Drowned at the River of <hi>Benbarke,</hi> and the <hi>Black water</hi> two hundred and ſix.</p>
+               <p>Thirteen murthered in one morning by <hi>Patrick, Mr. Crew</hi> of <hi>Dungannon</hi> and two young Rebels did murther one hundred and forty women and children, the wife of <hi>Brian Kelly</hi> of <hi>Loughgal</hi> murthered five and forty with her own hands.</p>
+               <p>At a Mill-pond in the Pariſh of <hi>Killamon,</hi> were drowned in one day three hundred.</p>
+               <p>Eighteen <hi>Scottiſh</hi> Infants hanged on <hi>Clothiers</hi> Tenterhooks, and one young fat <hi>Scotchman</hi> murthered, and candles made of his greaſe. Another <hi>Scotchmans</hi> belly ript up, the end of his ſmall guts tied to a tree, then hee drawn about till his guts were pulled out, that they might try (ſaid they) whether a Dogs or a <hi>Scotch<g ref="char:EOLhyphen"/>mans</hi> guts were longeſt.</p>
+            </div>
+            <div type="part">
+               <head>County of Ardmagh.</head>
+               <p>Proteſtants in multitudes forced over the Bridge of <hi>Portadowne,</hi> whereby at ſeveral times there were drowned in the River <hi>Ban,</hi> above one Thouſand.</p>
+               <pb n="8" facs="tcp:109740:6"/>
+               <p>Great numbers of Proteſtants drowned at <hi>Corbridge</hi> and <hi>Kin<g ref="char:EOLhyphen"/>nard.</hi>
+               </p>
+               <p>Mr <hi>Fullerton</hi> Clerk, Mr. <hi>Awberry,</hi> Mr. <hi>Gladwich,</hi> murthered in the way towards <hi>Portadowne.</hi>
+               </p>
+               <p>Many others murthered, five murthered ſoon after the begin<g ref="char:EOLhyphen"/>ning of the Rebellion; one hundred and forty, or one hundred and ſixty drowned at <hi>Portadowne,</hi> fifty murthered at <hi>Blackwater</hi> Church, twenty drowned near the water of <hi>Callon,</hi> and ſeveral others murthered.</p>
+               <p>
+                  <hi>Mr. William Blundel</hi> drawn by the neck in a rope up and down <hi>Black water</hi> to confeſs mony, and three weeks after, hee, with his wiſe, and ſeven Children drowned; fourty four at ſeveral times murthered. A wife compelled to hang her own husband, with ſeveral other notorious murthers.</p>
+               <p>At <hi>Scaruah</hi> bridge, an hundred (ſome ſay an hundred and<g ref="char:EOLhyphen"/>twenty) drowned more, eighty more, ſixty more, fifty more, ſixty — twenty; ſeven men murthered.</p>
+               <p>Twelve murthered, whereof Mr. <hi>Robinſon</hi> the Miniſter, and his wife and three children were part.</p>
+               <p>Many Proteſtants put into a thatcht houſe, and there burnt alive.</p>
+               <p>The Lord <hi>Caulfield</hi> murthered.</p>
+               <p>Many burned in the Church of <hi>Blackwater.</hi> The wife of <hi>Ar<g ref="char:EOLhyphen"/>nold Taylor</hi> (great with childe) had her belly ript up, then drowned.</p>
+               <p>
+                  <hi>Thomas Maſon</hi> buried alive. Seventeen men, women, and chil<g ref="char:EOLhyphen"/>dren caſt into a Bog-pit, many more murthered.</p>
+               <p>One thouſand five hundred in three Pariſhes murthered; twenty ſeven more murthered. <hi>Mr. Cambel</hi> drowned.</p>
+               <p>Three hundred Proteſtants ſtripped naked, and put into the Church of <hi>Loghal,</hi> whereof about an hundred murthered within the Church, amongſt whom <hi>John Greg</hi> was quartered alive, his quarters thrown into the face of <hi>Richard Grég</hi> his father; the ſaid <hi>Richard</hi> was after there murthered, having received ſeventeen or eighteen wounds, after cut into quarters in his wives preſence; ſuch as were not murthered, were turned our a begging amongſt the Iriſh naked, and into the cold; moſt of which were killed by Iriſh Cripples, their Truls, and children.</p>
+               <pb n="9" facs="tcp:109740:6"/>
+               <p>One hundred and fourſcore drowned at twice, at the bridge of <hi>Callon.</hi> One hundred (ſome ſay two hundred) more drowned in a <hi>Lough</hi> near <hi>Baltinakilmorrogh</hi> within two miles of <hi>Loughal.</hi>
+               </p>
+               <p>
+                  <hi>Mr. Gabriel Conſtable,</hi> and his mother (eighty years old) murthered.</p>
+               <p>To the number of five hundred forty eight families murthered in the Pariſh of <hi>Killaman.</hi>
+               </p>
+               <p>Three men had their brains knockt out with a hatcher within the Church of <hi>Benbarb;</hi> eight women drowned in a River under the ſame Church. <hi>Chriſtopher Glover</hi> murthered.</p>
+               <p>By ſpecial Command from <hi>Sir Philem Oneile, Maſter James Maxwel</hi> Licutenant, was dragged out of his bed, (raving in the height of a burning Feaver) driven two miles, and murthered; his wife, great with childe ſtript ſtark naked and drowned in the black water, the childe half born.</p>
+               <p>Mr. <hi>Starkey</hi> (above an hundred years old) and his two daugh<g ref="char:EOLhyphen"/>ters ſtripped ſtarkenaked; the daughters inſorced to ſupport, and lead their father, (hee not being able to go of himſelf) and hav<g ref="char:EOLhyphen"/>ing gone three quarters of a mile, were all three drowned in a Turff-pit.</p>
+            </div>
+            <div type="part">
+               <head>County of Donegal.</head>
+               <p>
+                  <hi>William Mac Kenny,</hi> and his mother in law, and his Wife (great with childe) murthered, his ſaid Wife having her belly rip<g ref="char:EOLhyphen"/>ped up, and the childe cut out of the womb.</p>
+               <p>
+                  <hi>Robert Akin</hi> clerk, and thirteen more murthered at <hi>Caſtledoe.</hi>
+               </p>
+               <p>Threeſcore perſons that came in boates from <hi>Killalagh</hi> mur<g ref="char:EOLhyphen"/>thered by the <hi>Mac Swines,</hi> and the <hi>O Boiles.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>County of Down.</head>
+               <p>Fourſcore forced to go on the Ice, at <hi>Lough Kearne,</hi> till they broke the Ice and were drowned.</p>
+               <p>Divers murthered at <hi>Caſtle Iſland</hi> and <hi>Down.</hi>
+               </p>
+               <p>Mr. <hi>Tudge</hi> the Miniſter of the <hi>Newry,</hi> Lieut. <hi>Trevor,</hi> and his wife, and 24 more (ſome account 50) murthered and cut in peeces at the paſſe of <hi>Ballonery.</hi>
+               </p>
+               <p>A <hi>Scotch-man,</hi> an <hi>Engliſh man,</hi> and a <hi>Welſh-man</hi> impriſoned in the Stocks at <hi>Newcastle,</hi> where they lay without breeches upon raw Hides, that their joynts rotted; inſomuch, that when two of them were aſterwards hanged, one of their feet fell off by the anckle.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:109740:7"/>
+               <head>County of Cavan.</head>
+               <p>Many Proteſtants forced over the bridge of <hi>Belturbet</hi> and there drowned.</p>
+               <p>
+                  <hi>Adam Baily,</hi> and ſeveral others murthered at <hi>Kilkelly.</hi>
+               </p>
+               <p>
+                  <hi>William Rocket</hi> drowned near <hi>Belturbet.</hi>
+               </p>
+               <p>Several <hi>Scottiſh</hi> families deſtroyed, two of the <hi>Hovies,</hi> and <hi>Abraham Jones</hi> murthered, ſeveral murthers committed at <hi>But<g ref="char:EOLhyphen"/>lers Bridge.</hi>
+               </p>
+               <p>A deſtracted <hi>Engliſh man</hi> run through with a Pike, he laugh<g ref="char:EOLhyphen"/>ing the while.</p>
+            </div>
+            <div type="part">
+               <head>County of Monaghan.</head>
+               <p>Many Proteſtants hanged at <hi>Carick Magroſſe.</hi>
+               </p>
+               <p>Sixteen Proteſtants at once hanged at <hi>Clowns.</hi> Several others there alſo hanged, and ſixteen women and children drowned in a Turff-pit.</p>
+               <p>
+                  <hi>Richard Blany</hi> Eſq; hanged.</p>
+               <p>Seven murthered in the <hi>Fewes,</hi> Enſign <hi>Lloyd</hi> and others mur<g ref="char:EOLhyphen"/>thered and one buried quick.</p>
+               <p>
+                  <hi>John Hughes,</hi> and twenty four more murthered.</p>
+               <p>At <hi>Tully</hi> threeſcore murthered after quarter given. Eighteen murthered.</p>
+               <p>Seventeen men, women, and children drowned at <hi>Balleroſſe.</hi> Many murthered and four drowned.</p>
+               <p>Cornet <hi>Clenton</hi> and his Grand child drowned, and many o<g ref="char:EOLhyphen"/>thers murthered.</p>
+               <p>About thirty murthered in <hi>Farney,</hi> two of them ſo aged they went upon ſtaves, and another had at leaſt forty wounds.</p>
+               <p>One <hi>Mac Maghon,</hi> Capt. of <hi>Monaghan</hi> ſported himſelf by thruſting a woodden broach into the Fundament of an Engliſh man, or Scotch-man, then driving him about the Roome, with a joynt ſtoole, being much affected at the miſerable geſtures of the poor party ſo tormented. The ſaid <hi>Mac Maghan</hi> and his Confederates at a Feaſt, after dinner had an Engliſh man bound before them, and at each health every one gave him a wound, af<g ref="char:EOLhyphen"/>ter which they caſt him upon a dunghil where languiſhing hee dyed.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:109740:7"/>
+               <head>County of Fermanagh.</head>
+               <p>
+                  <hi>Arthur Campin,</hi> and ſixteen more with him murthered. At another time 24 murthered. At another time two murthered.</p>
+               <p>One killed, and fourteen hanged.</p>
+               <p>Seven hanged at one time, and divers others put to death.</p>
+               <p>Fourſcore men, women, &amp; children, burned &amp; killed in <hi>Lugoole.</hi>
+               </p>
+               <p>At <hi>Moueogh</hi> Caſtle eight murthered. At <hi>Tullough</hi> Caſtle four<g ref="char:EOLhyphen"/>ſcore murthered, near <hi>Cordiller</hi> three hanged, One more hanged.</p>
+               <p>Fourteen Proteſtants hanged.</p>
+               <p>Fourty Proteſtants in the Pariſh of <hi>New Town</hi> murthered.</p>
+               <p>Eighteen murthered.</p>
+               <p>Thirty murthered in the Pariſh of <hi>Clankelly.</hi>
+               </p>
+               <p>Twelve murthered in <hi>New Town.</hi>
+               </p>
+               <p>
+                  <hi>William Ogden</hi> murthered.</p>
+               <p>Sixty, (another ſayes an hundred) murthered at <hi>Tully,</hi> after quarter given, or promiſed them.</p>
+               <p>Fifteen hanged at <hi>Lothers-Town.</hi> Two murthered at <hi>Kinnally.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>The which cruel Rebellion was in projection ſeveral years, be<g ref="char:EOLhyphen"/>fore it broke forth; and in order thereunto an intercourſe of let<g ref="char:EOLhyphen"/>ters and correſpondence was ſetled amongſt others between the Earl of <hi>Tirone,</hi> then in <hi>Flanders,</hi> and the Popiſh Primate of <hi>Ard<g ref="char:EOLhyphen"/>magh Rely,</hi> which barbarous deſign was alſo fomented by the Recuſant party of the Parliament of <hi>Ireland,</hi> who obſtructed the ſending away ſeveral Companies of Papiſt ſouldiers, raiſed for the ſervice of the King of <hi>Spain,</hi> which were kept on Ship<g ref="char:EOLhyphen"/>board in the Bay of <hi>Dublin;</hi> And that they might the better know how to put their execrable deſign in execution, they con<g ref="char:EOLhyphen"/>trive, on pretence of danger, the ſearching of the ſtores: For that purpoſe it was alledged in the Parliament, that the Earl of <hi>Straffords</hi> man had caſt out threatning words againſt the Parlia<g ref="char:EOLhyphen"/>ment, tending to blow them up, the ſtores lying under the place where they ſate, &amp; amongſt thoſe that were appointed on this pre<g ref="char:EOLhyphen"/>tence to ſearch the ſtores: the Lord <hi>Mac. Guire</hi> was one, who freely gave money to the Officers of the ſtore.</p>
+               <p>The Parliament being prorogued upon St. <hi>Francis</hi> day, in the beginning of <hi>October,</hi> they met at <hi>Multifarnam</hi> in the County of <hi>Weſt Meath,</hi> being a Convent of <hi>Franciſcans,</hi> the Heads of the
+<pb n="12" facs="tcp:109740:8"/>Romiſh Clergy, and many other Lay-men, where amongſt other things there it was debated (the time of this bloody Tragedy be<g ref="char:EOLhyphen"/>ing agreed upon) what courſe ſhould be taken with the Engliſh and Proteſtants, about which they were divided.</p>
+               <p>Some were for Baniſhment, without attempting on their lives, as the King of <hi>Spain</hi> did the <hi>Moors</hi> out of <hi>Granado</hi> and other parts of his Dominions, to the number of many hundred thou<g ref="char:EOLhyphen"/>ſand.</p>
+               <p>Others were for the cutting off all the Engliſh and Proteſtants, alledging that the inſtance of the diſmiſt <hi>Moores</hi> was the ſole Act of the <hi>King</hi> and <hi>Queen</hi> of <hi>Spain,</hi> contrary to the advice of their Councils: and that if they had been cut off, <hi>Chriſtendome</hi> had not groaned under the miſeries it hath ſuffered by the Piracies of <hi>Argiers, &amp;c.</hi>
+               </p>
+               <p>Some others of them were for ſecuring their perſons, until they ſhould ranſom themſelves, or be exchanged, in caſe they ſhould not accompliſh their deſigns without a war, and being in their power they could diſpoſe of them at pleaſure. But coming to no reſult in this matter, every party followed their own re<g ref="char:EOLhyphen"/>ſolutions, ſome killed, others impriſoned, and onely plundered, yet ſuch was their cruelty, that one hundred fifty four thouſand men, women, and children, <hi>Engliſh</hi> and <hi>Scotch,</hi> were maſſacred in that Kingdome between the 23. of <hi>October,</hi> 1641. and the firſt of <hi>March</hi> following, by computation of their Prieſts that were pre<g ref="char:EOLhyphen"/>ſent, and principal Actors in thoſe Tragedies, and were directed by ſome chief Rebels of <hi>Ireland,</hi> to take the Computation, leſt they ſhould be reported to be more bloody then in truth there was cauſe.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109740:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
